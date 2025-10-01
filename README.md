@@ -23,6 +23,7 @@
 ## 🛠️ Technologies & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,php,js,cs,fastapi,django,git,github,windows,vscode,english" />
+  [![Django REST Framework](https://img.shields.io/badge/Django%20REST-blue?logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 </p>
 
 ---
