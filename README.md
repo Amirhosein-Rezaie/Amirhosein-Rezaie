@@ -22,7 +22,7 @@
 
 ## 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cs,fastapi,django,git,github,windows,vscode,english" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cs,fastapi,django,git,github,windows,vscode,postman" />
 </p>
 
 ---
