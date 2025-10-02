@@ -5,8 +5,8 @@
 ---
 
 ## ✨ About Me
-- 🔹 Interested in **programming**, **computer**, **foreign languages** (English & French), **football**, and **chess**, **video game** 
 - 🔹 Passionate about learning and exploring new technologies  
+- 🔹 Interested in **programming**, **computer**, **foreign languages** (English & French), **football**, and **chess**, **video game** 
 - 🔹 Currently improving my **English** (Upper-Intermediate level)
 
 ---
