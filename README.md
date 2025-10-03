@@ -16,14 +16,14 @@
 - 🐘 **PHP**  
 - ⚡ **JavaScript (basic knowledge)**  
 - 🖥️ **C# (low level)**  
-- 🔗 **API Development** with **Django REST Framework** & **FastAPI**
+- 🔗 **API Development** with **Django REST Framework**
 - 🇺🇸 **English (Upper Intermediate)**
 
 ---
 
 ## 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,cs,fastapi,django,git,github,windows,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,cs,django,git,github,windows,vscode,postman" />
 </p>
 
 ---
