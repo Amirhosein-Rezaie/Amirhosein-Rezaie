@@ -17,6 +17,7 @@
 - ⚡ **JavaScript (basic knowledge)**  
 - 🖥️ **C# (low level)**  
 - 🔗 **API Development** with **Django REST Framework** & **FastAPI**
+- 🇺🇸 **English (Upper Intermediate)**
 
 ---
 
@@ -38,5 +39,3 @@
 ---
 
 ✨ Always learning, always growing ✨
-
-
