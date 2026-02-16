@@ -12,8 +12,8 @@
 ---
 
 ## 🤹 Skills
-- 🐍 **Python (Pure)**  
-- 🐘 **PHP**  
+- 🐍 **Python**  
+- 🐘 **PHP**
 - ⚡ **JavaScript (basic knowledge)**  
 - 🖥️ **C# (low level)**  
 - 🔗 **API Development** with **Django REST Framework**
